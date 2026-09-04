@@ -7,7 +7,7 @@ about:
   head: 4ed7a30
   archived: false
   latestVersion: v0.5.17
-  collectedAt: 2026-09-04T20:10:00Z
+  collectedAt: 2026-09-04T20:31:03Z
 timeline:
   created: 2020-10-06
   lastCommit: 2026-08-31
@@ -90,7 +90,7 @@ total:
   commit: 714
 ---
 path: /home/runner/.x-repo/github.com/benbjohnson/litestream
-collectedAt: 2026-09-04T20:10:02Z
+collectedAt: 2026-09-04T20:31:04Z
 loc:
   Go:
     code: 59158
