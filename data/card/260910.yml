@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.5.17"
   latestRelease: "v0.5.17"
   latestPrerelease: "v0.5.3-beta3"
-  collectedAt: 2026-09-10T05:42:53Z
+  collectedAt: 2026-09-10T20:38:58Z
 timeline:
   created: 2020-10-06
   lastCommit: 2026-08-31
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-08-31
   lastPrerelease: 2025-12-08
 popularity:
-  star: 14365
+  star: 14366
   watcher: 87
-  fork: 411
+  fork: 412
   release: 43
   contributor: 37
-  pullRequest: 757
-  issue: 639
+  pullRequest: 759
+  issue: 640
 language:
   Go: 2155168
   C: 708496
@@ -39,60 +39,60 @@ recent:
     since: 2026-08-11
     release: 1
     mergedPR: 17
-    openPR: 29
+    openPR: 31
     closedIssue: 4
-    openIssue: 33
+    openIssue: 34
     commit: 20
   last60d:
     since: 2026-07-12
     release: 3
     mergedPR: 24
-    openPR: 44
+    openPR: 46
     closedIssue: 14
-    openIssue: 65
+    openIssue: 66
     commit: 46
   last90d:
     since: 2026-06-12
     release: 5
     mergedPR: 48
-    openPR: 49
+    openPR: 51
     closedIssue: 31
-    openIssue: 67
+    openIssue: 68
     commit: 55
   last180d:
     since: 2026-03-14
     release: 9
     mergedPR: 103
-    openPR: 54
+    openPR: 56
     closedIssue: 61
-    openIssue: 82
+    openIssue: 83
     commit: 103
   last360d:
     since: 2025-09-15
     release: 20
     mergedPR: 321
-    openPR: 59
+    openPR: 61
     closedIssue: 221
-    openIssue: 87
+    openIssue: 88
     commit: 321
   last720d:
     since: 2024-09-20
     release: 21
     mergedPR: 374
-    openPR: 59
+    openPR: 61
     closedIssue: 282
-    openIssue: 87
+    openIssue: 88
     commit: 375
 total:
   release: 43
   mergedPR: 563
-  openPR: 59
+  openPR: 61
   closedIssue: 552
-  openIssue: 87
+  openIssue: 88
   commit: 714
 ---
 path: /home/runner/.x-repo/github.com/benbjohnson/litestream
-collectedAt: 2026-09-10T05:42:54Z
+collectedAt: 2026-09-10T20:39:01Z
 loc:
   Go:
     code: 59158

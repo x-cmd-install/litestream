@@ -1,0 +1,166 @@
+- repo: aur
+  srcname: litestream
+  binname: litestream
+  visiblename: litestream
+  version: 0.5.12
+  origversion: 0.5.12-1
+  status: outdated
+  summary: Streaming S3 replication for SQLite.
+  maintainers:
+    - wansing@aur
+  licenses:
+    - Apache
+- repo: chocolatey
+  binname: litestream
+  visiblename: Litestream
+  version: 0.5.15
+  origversion: null
+  status: outdated
+  summary: Streaming replication for SQLite
+- repo: freebsd
+  srcname: databases/litestream
+  binname: litestream
+  visiblename: databases/litestream
+  version: 0.5.17
+  origversion: null
+  status: newest
+  summary: Streaming replication for SQLite
+  maintainers:
+    - sunpoet@freebsd.org
+  categories:
+    - databases
+- repo: gentoo
+  srcname: media-sound/litestream
+  visiblename: media-sound/litestream
+  version: 1.3_rc3
+  origversion: null
+  status: devel
+  summary: Litstream is a lightweight and robust shoutcast-compatible streaming mp3 server
+  maintainers:
+    - sound@gentoo.org
+  licenses:
+    - BSD
+  categories:
+    - media-sound
+- repo: liguros_stable
+  srcname: media-sound/litestream
+  visiblename: media-sound/litestream
+  version: 1.3_rc3
+  origversion: null
+  status: devel
+  summary: Litstream is a lightweight and robust shoutcast-compatible streaming mp3 server
+  maintainers:
+    - sound@gentoo.org
+  licenses:
+    - BSD
+  categories:
+    - media-sound
+- repo: liguros_develop
+  srcname: media-sound/litestream
+  visiblename: media-sound/litestream
+  version: 1.3_rc3
+  origversion: null
+  status: devel
+  summary: Litstream is a lightweight and robust shoutcast-compatible streaming mp3 server
+  maintainers:
+    - sound@gentoo.org
+  licenses:
+    - BSD
+  categories:
+    - media-sound
+- repo: macports
+  srcname: databases/litestream
+  binname: litestream
+  visiblename: litestream
+  version: 0.5.17
+  origversion: null
+  status: newest
+  summary: Streaming replication for SQLite
+  maintainers:
+    - herbygillot@github
+  licenses:
+    - Apache-2
+  categories:
+    - databases
+- repo: nix_stable_26_05
+  srcname: litestream
+  visiblename: litestream
+  version: 0.5.11
+  origversion: null
+  status: outdated
+  summary: Streaming replication for SQLite
+  maintainers:
+    - yuuki@protonmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: litestream
+  visiblename: litestream
+  version: 0.5.16
+  origversion: null
+  status: outdated
+  summary: Streaming replication for SQLite
+  maintainers:
+    - yuuki@protonmail.com
+    - konrad.malik@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: litestream
+  visiblename: litestream
+  version: 0.3.13
+  origversion: null
+  status: outdated
+  summary: Streaming replication for SQLite
+  maintainers:
+    - yuuki@protonmail.com
+  licenses:
+    - Apache-2.0
+  vulnerable: true
+- repo: nix_stable_25_11
+  srcname: litestream
+  visiblename: litestream
+  version: 0.3.13
+  origversion: null
+  status: outdated
+  summary: Streaming replication for SQLite
+  maintainers:
+    - yuuki@protonmail.com
+  licenses:
+    - Apache-2.0
+  vulnerable: true
+- repo: nix_stable_24_05
+  srcname: litestream
+  visiblename: litestream
+  version: 0.3.13
+  origversion: null
+  status: outdated
+  summary: Streaming replication for SQLite
+  maintainers:
+    - yuuki@protonmail.com
+  licenses:
+    - Apache-2.0
+  vulnerable: true
+- repo: nix_stable_24_11
+  srcname: litestream
+  visiblename: litestream
+  version: 0.3.13
+  origversion: null
+  status: outdated
+  summary: Streaming replication for SQLite
+  maintainers:
+    - yuuki@protonmail.com
+  licenses:
+    - Apache-2.0
+  vulnerable: true
+- repo: spack
+  srcname: litestream
+  visiblename: litestream
+  version: 0.3.13
+  origversion: null
+  status: outdated
+  maintainers:
+    - alecbcs@spack
+  licenses:
+    - Apache-2.0
+  vulnerable: true

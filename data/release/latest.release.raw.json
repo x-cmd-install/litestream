@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2536,
       "digest": "sha256:f5c30b11a19ef14fc64581be19aa50ee81dcc7f53eb429737c151630f5129d6f",
-      "download_count": 392,
+      "download_count": 410,
       "created_at": "2026-08-31T22:07:12Z",
       "updated_at": "2026-08-31T22:07:12Z",
       "browser_download_url": "https://github.com/benbjohnson/litestream/releases/download/v0.5.17/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 12967464,
       "digest": "sha256:e211f68ff7658d19f193f2914417afdf8f89a053ff8f263e5d6b3b1d3bbc7b08",
-      "download_count": 950,
+      "download_count": 999,
       "created_at": "2026-08-31T22:07:06Z",
       "updated_at": "2026-08-31T22:07:07Z",
       "browser_download_url": "https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-0.5.17-darwin-arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 165468,
       "digest": "sha256:62fb18a24064610e9d5f5313bc8f6a2c354b2a1ec7ebc14f0d3966d9c194ff35",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-08-31T22:07:11Z",
       "updated_at": "2026-08-31T22:07:11Z",
       "browser_download_url": "https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-0.5.17-darwin-arm64.tar.gz.sbom.json"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 13891626,
       "digest": "sha256:891875af09db152e93a4b31a8a79f538ce7ce702c132803cfe0a831e7cb1b7db",
-      "download_count": 26,
+      "download_count": 34,
       "created_at": "2026-08-31T22:07:07Z",
       "updated_at": "2026-08-31T22:07:08Z",
       "browser_download_url": "https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-0.5.17-darwin-x86_64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 12330334,
       "digest": "sha256:7d34ed3356844fe3dd127462b9f4ea7e79ef14679eadf2fed6c737dcb797358e",
-      "download_count": 85,
+      "download_count": 89,
       "created_at": "2026-08-31T22:07:09Z",
       "updated_at": "2026-08-31T22:07:10Z",
       "browser_download_url": "https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-0.5.17-linux-arm64.deb"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 12336596,
       "digest": "sha256:f8ca4a050095c1efbda2c4365172e61bf9d955ea0d9ac42f448b52e51819baa5",
-      "download_count": 242,
+      "download_count": 281,
       "created_at": "2026-08-31T22:07:07Z",
       "updated_at": "2026-08-31T22:07:08Z",
       "browser_download_url": "https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-0.5.17-linux-arm64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 12587342,
       "digest": "sha256:7d11425e3c1df98cb2ec49f387bd7110e0c781c063d74f437d2dd25b21f1364a",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-08-31T22:07:08Z",
       "updated_at": "2026-08-31T22:07:09Z",
       "browser_download_url": "https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-0.5.17-linux-armv6.deb"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 12594921,
       "digest": "sha256:5cccb817593d2ff9515ba82e17a56c785520a8e639c20c409c630e42a553d14d",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-08-31T22:07:06Z",
       "updated_at": "2026-08-31T22:07:07Z",
       "browser_download_url": "https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-0.5.17-linux-armv6.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 13535374,
       "digest": "sha256:a191a0928884d1820fab1f866ede1d0d5811c323d0587bf863a43481a82a7668",
-      "download_count": 1294,
+      "download_count": 1322,
       "created_at": "2026-08-31T22:07:10Z",
       "updated_at": "2026-08-31T22:07:10Z",
       "browser_download_url": "https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-0.5.17-linux-x86_64.deb"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 13535449,
       "digest": "sha256:70c85d09df1e9d2ee6a0fb67914133aff38f73cda23330b99b8f6b425760abe1",
-      "download_count": 27,
+      "download_count": 34,
       "created_at": "2026-08-31T22:07:10Z",
       "updated_at": "2026-08-31T22:07:11Z",
       "browser_download_url": "https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-0.5.17-linux-x86_64.rpm"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 13540484,
       "digest": "sha256:cfb371176d164437ae869f8351cfde49bd1804ae71c61923f75c9cba9c9c006d",
-      "download_count": 1821,
+      "download_count": 2068,
       "created_at": "2026-08-31T22:07:07Z",
       "updated_at": "2026-08-31T22:07:08Z",
       "browser_download_url": "https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-0.5.17-linux-x86_64.tar.gz"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 12433194,
       "digest": "sha256:4760c629b43539e212fc6caf0d9c28d96f33f9a2878fd2edcd85cfebf21cea8f",
-      "download_count": 12,
+      "download_count": 19,
       "created_at": "2026-08-31T22:07:06Z",
       "updated_at": "2026-08-31T22:07:07Z",
       "browser_download_url": "https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-0.5.17-windows-arm64.zip"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 13870760,
       "digest": "sha256:6f5532687d71c452e0099a9087e51da65f9935664fb11549abc0a5a34cb1d34e",
-      "download_count": 159,
+      "download_count": 179,
       "created_at": "2026-08-31T22:07:07Z",
       "updated_at": "2026-08-31T22:07:08Z",
       "browser_download_url": "https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-0.5.17-windows-x86_64.zip"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 25914830,
       "digest": "sha256:ec462c3a80529fe331bcfda97c5fa6e6c023622728d38ff0ddf9adc18a9cefef",
-      "download_count": 25,
+      "download_count": 27,
       "created_at": "2026-08-31T22:09:02Z",
       "updated_at": "2026-08-31T22:09:03Z",
       "browser_download_url": "https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-vfs-v0.5.17-linux-amd64.tar.gz"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 23733241,
       "digest": "sha256:a890125bd020b5e368f218b53b6e61fbbc93db7a7d71c9b8b2260ec9f1c9c446",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-08-31T22:09:28Z",
       "updated_at": "2026-08-31T22:09:29Z",
       "browser_download_url": "https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-vfs-v0.5.17-linux-arm64.tar.gz"
