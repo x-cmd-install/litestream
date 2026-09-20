@@ -4,7 +4,7 @@
 
 Streaming replication for SQLite.
 
-![litestream](https://repo.x-cmd.io/litestream.svg)
+[![x-cmd/install — litestream Code Quality Monitoring Repo Card](https://repo.x-cmd.io/litestream.svg)](https://x-cmd.com/install/litestream)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 14,383 · **Forks**: 417 · **Open issues**: 646 · **Contributors**: 38
+- **Stars**: 14,384 · **Forks**: 419 · **Open issues**: 647 · **Contributors**: 38
 
 ## Totals (cumulative)
 
-- **Releases**: 43 · **Merged PRs**: 571 · **Open PRs**: 58 · **Closed issues**: 558 · **Open issues**: 88 · **Commits**: 722
+- **Releases**: 43 · **Merged PRs**: 571 · **Open PRs**: 58 · **Closed issues**: 558 · **Open issues**: 89 · **Commits**: 722
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 12 | 26 | 7 | 27 | 21 |
-| last60d | 2026-07-20 | 3 | 32 | 33 | 19 | 55 | 48 |
-| 90d | 2026-06-20 | 5 | 53 | 46 | 37 | 68 | 63 |
-| last180d | 2026-03-22 | 8 | 110 | 53 | 65 | 81 | 111 |
-| 360d | 2025-09-23 | 20 | 325 | 58 | 223 | 88 | 327 |
-| last720d | 2024-09-28 | 21 | 382 | 58 | 288 | 88 | 383 |
+| 30d | 2026-08-21 | 1 | 12 | 21 | 7 | 23 | 16 |
+| last60d | 2026-07-22 | 2 | 32 | 33 | 19 | 55 | 41 |
+| 90d | 2026-06-22 | 5 | 53 | 46 | 36 | 69 | 61 |
+| last180d | 2026-03-24 | 8 | 108 | 53 | 63 | 81 | 107 |
+| 360d | 2025-09-25 | 20 | 322 | 58 | 223 | 89 | 320 |
+| last720d | 2024-09-30 | 21 | 382 | 58 | 288 | 89 | 383 |
 
 ## Release assets
 
@@ -112,4 +112,4 @@ Install metadata for litestream lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:49:31Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:54:34Z._
