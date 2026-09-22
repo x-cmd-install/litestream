@@ -26,7 +26,7 @@ Total: **67,586** lines of code across **186** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.9 / 10**
+Overall score: **5.8 / 10**
 
 Lowest-scoring checks:
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.5.17` (2026-08-31)
-- **Last commit**: 2026-09-14
+- **Last commit**: 2026-09-21
 - **Assets in release**: 33
 
 ## Popularity
 
-- **Stars**: 14,385 · **Forks**: 418 · **Open issues**: 648 · **Contributors**: 38
+- **Stars**: 14,386 · **Forks**: 419 · **Open issues**: 651 · **Contributors**: 38
 
 ## Totals (cumulative)
 
-- **Releases**: 43 · **Merged PRs**: 571 · **Open PRs**: 59 · **Closed issues**: 558 · **Open issues**: 90 · **Commits**: 722
+- **Releases**: 43 · **Merged PRs**: 572 · **Open PRs**: 60 · **Closed issues**: 559 · **Open issues**: 92 · **Commits**: 723
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 1 | 12 | 21 | 7 | 24 | 16 |
-| last60d | 2026-07-23 | 2 | 32 | 33 | 19 | 56 | 41 |
-| 90d | 2026-06-23 | 5 | 53 | 47 | 36 | 70 | 61 |
-| last180d | 2026-03-25 | 8 | 108 | 53 | 63 | 81 | 107 |
-| 360d | 2025-09-26 | 20 | 322 | 59 | 223 | 90 | 320 |
-| last720d | 2024-10-01 | 21 | 382 | 59 | 288 | 90 | 383 |
+| 30d | 2026-08-23 | 1 | 13 | 22 | 8 | 26 | 17 |
+| last60d | 2026-07-24 | 2 | 33 | 34 | 18 | 56 | 42 |
+| 90d | 2026-06-24 | 5 | 51 | 48 | 37 | 72 | 62 |
+| last180d | 2026-03-26 | 8 | 107 | 54 | 62 | 83 | 108 |
+| 360d | 2025-09-27 | 20 | 323 | 60 | 224 | 92 | 321 |
+| last720d | 2024-10-02 | 21 | 383 | 60 | 289 | 92 | 384 |
 
 ## Release assets
 
@@ -112,4 +112,4 @@ Install metadata for litestream lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T05:52:46Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T05:48:01Z._
