@@ -4,7 +4,7 @@
 
 Streaming replication for SQLite.
 
-[![x-cmd/install — litestream Code Quality Monitoring Repo Card](https://repo.x-cmd.io/litestream.svg?lang=zh)](https://x-cmd.com/install/litestream)
+[![x-cmd/install — litestream Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/litestream.svg?lang=zh)](https://x-cmd.com/install/litestream)
 
 ## 安装
 
@@ -48,22 +48,22 @@ x install litestream
 
 ## 流行度
 
-- **Star**: 14,386 · **Fork**: 419 · **开放 issue**: 651 · **贡献者**: 38
+- **Star**: 14,389 · **Fork**: 419 · **开放 issue**: 652 · **贡献者**: 38
 
 ## 累计统计
 
-- **发布数**: 43 · **已合并 PR**: 572 · **开放 PR**: 60 · **已关闭 issue**: 559 · **开放 issue**: 92 · **提交数**: 723
+- **发布数**: 43 · **已合并 PR**: 572 · **开放 PR**: 60 · **已关闭 issue**: 559 · **开放 issue**: 93 · **提交数**: 723
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 13 | 22 | 8 | 26 | 17 |
-| last60d | 2026-07-24 | 2 | 33 | 34 | 18 | 56 | 42 |
-| 90d | 2026-06-24 | 5 | 51 | 48 | 37 | 72 | 62 |
-| last180d | 2026-03-26 | 8 | 107 | 54 | 62 | 83 | 108 |
-| 360d | 2025-09-27 | 20 | 323 | 60 | 224 | 92 | 321 |
-| last720d | 2024-10-02 | 21 | 383 | 60 | 289 | 92 | 384 |
+| 30d | 2026-08-24 | 1 | 12 | 21 | 8 | 24 | 17 |
+| last60d | 2026-07-25 | 2 | 31 | 32 | 18 | 57 | 42 |
+| 90d | 2026-06-25 | 5 | 50 | 48 | 37 | 73 | 62 |
+| last180d | 2026-03-27 | 7 | 106 | 54 | 60 | 84 | 108 |
+| 360d | 2025-09-28 | 20 | 323 | 60 | 224 | 93 | 321 |
+| last720d | 2024-10-03 | 21 | 383 | 60 | 289 | 93 | 384 |
 
 ## Release 资产
 
@@ -112,4 +112,4 @@ litestream 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:48:02Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:56:06Z._

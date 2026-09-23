@@ -4,7 +4,7 @@
 
 Streaming replication for SQLite.
 
-[![x-cmd/install — litestream Code Quality Monitoring Repo Card](https://repo.x-cmd.io/litestream.svg)](https://x-cmd.com/install/litestream)
+[![x-cmd/install — litestream Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/litestream.svg)](https://x-cmd.com/install/litestream)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 14,386 · **Forks**: 419 · **Open issues**: 651 · **Contributors**: 38
+- **Stars**: 14,389 · **Forks**: 419 · **Open issues**: 652 · **Contributors**: 38
 
 ## Totals (cumulative)
 
-- **Releases**: 43 · **Merged PRs**: 572 · **Open PRs**: 60 · **Closed issues**: 559 · **Open issues**: 92 · **Commits**: 723
+- **Releases**: 43 · **Merged PRs**: 572 · **Open PRs**: 60 · **Closed issues**: 559 · **Open issues**: 93 · **Commits**: 723
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 13 | 22 | 8 | 26 | 17 |
-| last60d | 2026-07-24 | 2 | 33 | 34 | 18 | 56 | 42 |
-| 90d | 2026-06-24 | 5 | 51 | 48 | 37 | 72 | 62 |
-| last180d | 2026-03-26 | 8 | 107 | 54 | 62 | 83 | 108 |
-| 360d | 2025-09-27 | 20 | 323 | 60 | 224 | 92 | 321 |
-| last720d | 2024-10-02 | 21 | 383 | 60 | 289 | 92 | 384 |
+| 30d | 2026-08-24 | 1 | 12 | 21 | 8 | 24 | 17 |
+| last60d | 2026-07-25 | 2 | 31 | 32 | 18 | 57 | 42 |
+| 90d | 2026-06-25 | 5 | 50 | 48 | 37 | 73 | 62 |
+| last180d | 2026-03-27 | 7 | 106 | 54 | 60 | 84 | 108 |
+| 360d | 2025-09-28 | 20 | 323 | 60 | 224 | 93 | 321 |
+| last720d | 2024-10-03 | 21 | 383 | 60 | 289 | 93 | 384 |
 
 ## Release assets
 
@@ -112,4 +112,4 @@ Install metadata for litestream lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:48:01Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:56:05Z._
