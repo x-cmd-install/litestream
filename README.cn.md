@@ -30,8 +30,8 @@ x install litestream
 
 评分最低的几项:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Pinned-Dependencies** (2/10) — dependency not pinned by hash detected -- score normalized to 2
 
 ## 源代码
@@ -48,7 +48,7 @@ x install litestream
 
 ## 流行度
 
-- **Star**: 14,411 · **Fork**: 423 · **开放 issue**: 656 · **贡献者**: 38
+- **Star**: 14,412 · **Fork**: 423 · **开放 issue**: 656 · **贡献者**: 38
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install litestream
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 1 | 9 | 15 | 6 | 21 | 9 |
-| last60d | 2026-07-31 | 2 | 28 | 33 | 15 | 47 | 29 |
-| 90d | 2026-07-01 | 4 | 48 | 49 | 40 | 74 | 56 |
-| last180d | 2026-04-02 | 7 | 106 | 57 | 61 | 83 | 108 |
-| 360d | 2025-10-04 | 19 | 317 | 63 | 218 | 94 | 321 |
-| last720d | 2024-10-09 | 21 | 382 | 63 | 292 | 94 | 384 |
+| 30d | 2026-08-31 | 1 | 7 | 12 | 5 | 20 | 9 |
+| last60d | 2026-08-01 | 2 | 28 | 33 | 15 | 44 | 29 |
+| 90d | 2026-07-02 | 4 | 46 | 49 | 36 | 72 | 56 |
+| last180d | 2026-04-03 | 7 | 106 | 57 | 61 | 83 | 108 |
+| 360d | 2025-10-05 | 19 | 317 | 63 | 217 | 94 | 321 |
+| last720d | 2024-10-10 | 21 | 382 | 63 | 292 | 94 | 384 |
 
 ## Release 资产
 
@@ -112,4 +112,4 @@ litestream 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260929.yml` · 2026-09-29T06:29:37Z._
+_数据快照: `data/card/260930.yml` · 2026-09-30T06:17:03Z._

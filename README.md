@@ -30,8 +30,8 @@ Overall score: **5.8 / 10**
 
 Lowest-scoring checks:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Pinned-Dependencies** (2/10) — dependency not pinned by hash detected -- score normalized to 2
 
 ## Source
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 14,411 · **Forks**: 423 · **Open issues**: 656 · **Contributors**: 38
+- **Stars**: 14,412 · **Forks**: 423 · **Open issues**: 656 · **Contributors**: 38
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 1 | 9 | 15 | 6 | 21 | 9 |
-| last60d | 2026-07-31 | 2 | 28 | 33 | 15 | 47 | 29 |
-| 90d | 2026-07-01 | 4 | 48 | 49 | 40 | 74 | 56 |
-| last180d | 2026-04-02 | 7 | 106 | 57 | 61 | 83 | 108 |
-| 360d | 2025-10-04 | 19 | 317 | 63 | 218 | 94 | 321 |
-| last720d | 2024-10-09 | 21 | 382 | 63 | 292 | 94 | 384 |
+| 30d | 2026-08-31 | 1 | 7 | 12 | 5 | 20 | 9 |
+| last60d | 2026-08-01 | 2 | 28 | 33 | 15 | 44 | 29 |
+| 90d | 2026-07-02 | 4 | 46 | 49 | 36 | 72 | 56 |
+| last180d | 2026-04-03 | 7 | 106 | 57 | 61 | 83 | 108 |
+| 360d | 2025-10-05 | 19 | 317 | 63 | 217 | 94 | 321 |
+| last720d | 2024-10-10 | 21 | 382 | 63 | 292 | 94 | 384 |
 
 ## Release assets
 
@@ -112,4 +112,4 @@ Install metadata for litestream lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T06:29:36Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T06:17:02Z._
