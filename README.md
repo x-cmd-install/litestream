@@ -14,11 +14,11 @@ x install litestream
 
 ## Code insight
 
-Total: **69,156** lines of code across **191** files in the top 5 languages.
+Total: **69,212** lines of code across **192** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 60,850 | 5,390 | 10,770 | 151 |
+| Go | 60,906 | 5,401 | 10,784 | 152 |
 | Sh | 4,182 | 385 | 857 | 25 |
 | CHeader | 2,465 | 11,720 | 366 | 3 |
 | Json | 960 | 0 | 2 | 7 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.5.17` (2026-08-31)
-- **Last commit**: 2026-10-08
+- **Last commit**: 2026-10-09
 - **Assets in release**: 33
 
 ## Popularity
 
-- **Stars**: 14,464 · **Forks**: 429 · **Open issues**: 661 · **Contributors**: 42
+- **Stars**: 14,472 · **Forks**: 432 · **Open issues**: 662 · **Contributors**: 42
 
 ## Totals (cumulative)
 
-- **Releases**: 43 · **Merged PRs**: 586 · **Open PRs**: 58 · **Closed issues**: 571 · **Open issues**: 90 · **Commits**: 737
+- **Releases**: 43 · **Merged PRs**: 587 · **Open PRs**: 59 · **Closed issues**: 571 · **Open issues**: 91 · **Commits**: 738
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 0 | 11 | 12 | 6 | 16 | 19 |
-| last60d | 2026-08-10 | 1 | 39 | 28 | 19 | 41 | 43 |
-| 90d | 2026-07-11 | 3 | 47 | 43 | 32 | 69 | 69 |
-| last180d | 2026-04-12 | 6 | 116 | 52 | 69 | 79 | 119 |
-| 360d | 2025-10-14 | 18 | 322 | 58 | 223 | 90 | 325 |
-| last720d | 2024-10-19 | 21 | 396 | 58 | 299 | 90 | 398 |
+| 30d | 2026-09-10 | 0 | 10 | 13 | 6 | 16 | 20 |
+| last60d | 2026-08-11 | 1 | 40 | 29 | 19 | 41 | 44 |
+| 90d | 2026-07-12 | 3 | 48 | 43 | 32 | 70 | 70 |
+| last180d | 2026-04-13 | 6 | 117 | 53 | 69 | 80 | 120 |
+| 360d | 2025-10-15 | 17 | 322 | 59 | 223 | 91 | 326 |
+| last720d | 2024-10-20 | 21 | 397 | 59 | 299 | 91 | 399 |
 
 ## Release assets
 
@@ -112,4 +112,4 @@ Install metadata for litestream lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261009.yml` · 2026-10-09T06:48:52Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T06:28:24Z._
