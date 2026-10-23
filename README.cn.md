@@ -48,22 +48,22 @@ x install litestream
 
 ## 流行度
 
-- **Star**: 14,517 · **Fork**: 443 · **开放 issue**: 666 · **贡献者**: 46
+- **Star**: 14,522 · **Fork**: 443 · **开放 issue**: 667 · **贡献者**: 46
 
 ## 累计统计
 
-- **发布数**: 43 · **已合并 PR**: 598 · **开放 PR**: 59 · **已关闭 issue**: 576 · **开放 issue**: 90 · **提交数**: 749
+- **发布数**: 43 · **已合并 PR**: 598 · **开放 PR**: 60 · **已关闭 issue**: 577 · **开放 issue**: 90 · **提交数**: 749
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 14 | 18 | 5 | 9 | 26 |
-| last60d | 2026-08-23 | 1 | 36 | 30 | 17 | 32 | 48 |
-| 90d | 2026-07-24 | 2 | 59 | 36 | 33 | 56 | 75 |
-| last180d | 2026-04-25 | 6 | 100 | 54 | 71 | 79 | 128 |
-| 360d | 2025-10-27 | 17 | 329 | 59 | 223 | 90 | 331 |
-| last720d | 2024-11-01 | 21 | 406 | 59 | 303 | 90 | 408 |
+| 30d | 2026-09-23 | 0 | 14 | 18 | 5 | 10 | 26 |
+| last60d | 2026-08-24 | 1 | 35 | 30 | 16 | 31 | 48 |
+| 90d | 2026-07-25 | 2 | 57 | 35 | 33 | 57 | 75 |
+| last180d | 2026-04-26 | 6 | 100 | 55 | 71 | 80 | 128 |
+| 360d | 2025-10-28 | 17 | 329 | 60 | 224 | 90 | 331 |
+| last720d | 2024-11-02 | 21 | 406 | 60 | 304 | 90 | 408 |
 
 ## Release 资产
 
@@ -103,6 +103,14 @@ x install litestream
 | [litestream-vfs-v0.5.17-linux-arm64.tar.gz](https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-vfs-v0.5.17-linux-arm64.tar.gz) | 22.6 MiB | `native/linux/arm64` |
 | [litestream-vfs-v0.5.17-linux-arm64.tar.gz.sha256](https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-vfs-v0.5.17-linux-arm64.tar.gz.sha256) | 108 B | `native/linux/arm64` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/litestream) 上共有 **14** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**7** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Nix unstable | `0.5.17` | ✅ latest |
+
 ## 改进这些数据
 
 litestream 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `litestream` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -112,4 +120,4 @@ litestream 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T05:27:32Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T05:30:49Z._
