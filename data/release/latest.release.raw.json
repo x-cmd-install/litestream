@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2536,
       "digest": "sha256:f5c30b11a19ef14fc64581be19aa50ee81dcc7f53eb429737c151630f5129d6f",
-      "download_count": 8502,
+      "download_count": 8739,
       "created_at": "2026-08-31T22:07:12Z",
       "updated_at": "2026-08-31T22:07:12Z",
       "browser_download_url": "https://github.com/benbjohnson/litestream/releases/download/v0.5.17/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 12967464,
       "digest": "sha256:e211f68ff7658d19f193f2914417afdf8f89a053ff8f263e5d6b3b1d3bbc7b08",
-      "download_count": 7825,
+      "download_count": 8008,
       "created_at": "2026-08-31T22:07:06Z",
       "updated_at": "2026-08-31T22:07:07Z",
       "browser_download_url": "https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-0.5.17-darwin-arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 165468,
       "digest": "sha256:62fb18a24064610e9d5f5313bc8f6a2c354b2a1ec7ebc14f0d3966d9c194ff35",
-      "download_count": 21,
+      "download_count": 22,
       "created_at": "2026-08-31T22:07:11Z",
       "updated_at": "2026-08-31T22:07:11Z",
       "browser_download_url": "https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-0.5.17-darwin-arm64.tar.gz.sbom.json"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 13891626,
       "digest": "sha256:891875af09db152e93a4b31a8a79f538ce7ce702c132803cfe0a831e7cb1b7db",
-      "download_count": 542,
+      "download_count": 546,
       "created_at": "2026-08-31T22:07:07Z",
       "updated_at": "2026-08-31T22:07:08Z",
       "browser_download_url": "https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-0.5.17-darwin-x86_64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 12330334,
       "digest": "sha256:7d34ed3356844fe3dd127462b9f4ea7e79ef14679eadf2fed6c737dcb797358e",
-      "download_count": 1591,
+      "download_count": 1623,
       "created_at": "2026-08-31T22:07:09Z",
       "updated_at": "2026-08-31T22:07:10Z",
       "browser_download_url": "https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-0.5.17-linux-arm64.deb"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 12336596,
       "digest": "sha256:f8ca4a050095c1efbda2c4365172e61bf9d955ea0d9ac42f448b52e51819baa5",
-      "download_count": 20496,
+      "download_count": 21077,
       "created_at": "2026-08-31T22:07:07Z",
       "updated_at": "2026-08-31T22:07:08Z",
       "browser_download_url": "https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-0.5.17-linux-arm64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 163723,
       "digest": "sha256:34aa634afd763f53ef2511c6564a41bd34710326d11d403659ad5bee0a6ff5f2",
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2026-08-31T22:07:11Z",
       "updated_at": "2026-08-31T22:07:11Z",
       "browser_download_url": "https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-0.5.17-linux-arm64.tar.gz.sbom.json"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 13535374,
       "digest": "sha256:a191a0928884d1820fab1f866ede1d0d5811c323d0587bf863a43481a82a7668",
-      "download_count": 14787,
+      "download_count": 15000,
       "created_at": "2026-08-31T22:07:10Z",
       "updated_at": "2026-08-31T22:07:10Z",
       "browser_download_url": "https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-0.5.17-linux-x86_64.deb"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 13540484,
       "digest": "sha256:cfb371176d164437ae869f8351cfde49bd1804ae71c61923f75c9cba9c9c006d",
-      "download_count": 136952,
+      "download_count": 141331,
       "created_at": "2026-08-31T22:07:07Z",
       "updated_at": "2026-08-31T22:07:08Z",
       "browser_download_url": "https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-0.5.17-linux-x86_64.tar.gz"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 163827,
       "digest": "sha256:28a8246dfbed9639f65fcd041aea26e34f19af3b49344efb18090acadf261f9c",
-      "download_count": 85,
+      "download_count": 88,
       "created_at": "2026-08-31T22:07:11Z",
       "updated_at": "2026-08-31T22:07:11Z",
       "browser_download_url": "https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-0.5.17-linux-x86_64.tar.gz.sbom.json"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 13870760,
       "digest": "sha256:6f5532687d71c452e0099a9087e51da65f9935664fb11549abc0a5a34cb1d34e",
-      "download_count": 1913,
+      "download_count": 1976,
       "created_at": "2026-08-31T22:07:07Z",
       "updated_at": "2026-08-31T22:07:08Z",
       "browser_download_url": "https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-0.5.17-windows-x86_64.zip"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 109,
       "digest": "sha256:2a9989dd702518303f011a53667a538f74eadc8b8cdd3488fc787b2f2cde1671",
-      "download_count": 87,
+      "download_count": 90,
       "created_at": "2026-08-31T22:09:12Z",
       "updated_at": "2026-08-31T22:09:12Z",
       "browser_download_url": "https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-vfs-v0.5.17-darwin-amd64.tar.gz.sha256"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 109,
       "digest": "sha256:27ad15d35ba827afe07cf38b476d48a10679874fd3d45a0b1abef66bcce22cce",
-      "download_count": 211,
+      "download_count": 299,
       "created_at": "2026-08-31T22:08:32Z",
       "updated_at": "2026-08-31T22:08:32Z",
       "browser_download_url": "https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-vfs-v0.5.17-darwin-arm64.tar.gz.sha256"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 25914830,
       "digest": "sha256:ec462c3a80529fe331bcfda97c5fa6e6c023622728d38ff0ddf9adc18a9cefef",
-      "download_count": 440,
+      "download_count": 449,
       "created_at": "2026-08-31T22:09:02Z",
       "updated_at": "2026-08-31T22:09:03Z",
       "browser_download_url": "https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-vfs-v0.5.17-linux-amd64.tar.gz"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 108,
       "digest": "sha256:1b963061f2f6524ec89fa0e58f0e9d89beebea937481fa6ecee318d1a4404656",
-      "download_count": 355,
+      "download_count": 483,
       "created_at": "2026-08-31T22:09:02Z",
       "updated_at": "2026-08-31T22:09:02Z",
       "browser_download_url": "https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-vfs-v0.5.17-linux-amd64.tar.gz.sha256"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 108,
       "digest": "sha256:3d255b83fb135c8af3768d36f451e34c6ef6255efb87ce7dcbdaa84874ab0b89",
-      "download_count": 139,
+      "download_count": 176,
       "created_at": "2026-08-31T22:09:28Z",
       "updated_at": "2026-08-31T22:09:28Z",
       "browser_download_url": "https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-vfs-v0.5.17-linux-arm64.tar.gz.sha256"
@@ -1230,8 +1230,8 @@
   "body": "## Platform Support\n\n⚠️ **Windows Notice**: Windows binaries are provided for convenience but Windows is NOT an officially supported platform. Use at your own risk. Community contributions for Windows improvements are welcome.\n\n✅ **Supported Platforms**: Linux (amd64, arm64, armv6, armv7), macOS (amd64, arm64)\n\n## Installation\n\n### Homebrew (macOS and Linux)\n```bash\nbrew tap benbjohnson/litestream\nbrew install litestream\n```\n\n### Debian/Ubuntu\nDownload the `.deb` file for your architecture and install:\n```bash\nsudo dpkg -i litestream-*.deb\n```\n\n### RPM-based systems\nDownload the `.rpm` file for your architecture and install:\n```bash\nsudo rpm -i litestream-*.rpm\n```\n\n### Binary installation\nDownload the appropriate archive for your platform, extract, and move to your PATH.\n\n## VFS Extension (Experimental)\n\nSQLite loadable extensions for read-only access to Litestream replicas are available for supported platforms:\n\n| Platform | File |\n|----------|------|\n| Linux x86_64 | `litestream-vfs-v0.5.17-linux-amd64.tar.gz` |\n| Linux ARM64 | `litestream-vfs-v0.5.17-linux-arm64.tar.gz` |\n| macOS Intel | `litestream-vfs-v0.5.17-darwin-amd64.tar.gz` |\n| macOS Apple Silicon | `litestream-vfs-v0.5.17-darwin-arm64.tar.gz` |\n\nInstall via package managers:\n```bash\npip install litestream-vfs    # Python\nnpm install litestream-vfs    # Node.js\ngem install litestream-vfs    # Ruby\n```\n\n## Changelog\n* 102d2dd6291c3725dc3ba1d0339a72c3aeb2ed99 Log the resolved repica type when unknown (#1466)\n* 923d7c16de6cd4fbe7c143aeeba735c235268dce chore(deps): bump Go toolchain to 1.25.13 (#1434)\n* 3b468c9fe335d7bae033ba54eaac7f7df339d9df chore(deps): bump Go toolchain to 1.25.14 (#1476)\n* 69e918dc523bf67e8c0c631cb37dbe3c6287ccc0 config: reject duplicate dbs[].path at load (#1452)\n* ec542d57f4283c66f0118c97b5ae0f05b6919873 docs(readme): document internal lock table (#1438)\n* 534d8fbca5842262349ed51d92d3be9f503c5c58 docs(retention): explain snapshot floor (#1437)\n* 25ac743d2f559ac9efa3dae5b501cf79e553801d feat(vfs): thread-safe config registry for per-database VFS configuration (#1157)\n* 0c961ff1265bac8eb48398a5ebd99caa1e3b4010 fix(ci): always report test summary (#1474)\n* 63225f17ccbb8dedfb26d03f7d3d07e74c6cf69f fix(config): accept l0-retention: 0 as disabled (#1425)\n* 62297c3fe603310961e3ad71fe4c1c1cef483b81 fix(deps): remove release-blocking SQLite WAL-reset corruption exposure (#1436)\n* 8ff85b11bed8af66dc4eb23c765e46142ff14283 fix(logging): downgrade replica sync messages from INFO to DEBUG (#1207)\n* 0cce014a9a33905fb84de92e61bf51c65c0b87d1 fix(replica): return an error for a truncated page index (#1431)\n* 4250ef2e682d3547f6a4396d6f506126bac4a5c2 fix(restore): correctly restore v3 wal segments that exceed 4GB (#1442)\n* 97d2dfa513a37dd6ac0e1521962a88d479be5e07 fix(restore): retry through provider throttle responses (#1433)\n* a89a7c87e5486e3a5fb8d2877333602a9a989449 fix(restore): sort v3 WAL offsets safely (#1448)\n* ccd326c175b583b5e82893a6078f06dcef5fba3f fix(s3): allow disabling accept encoding signing (#1439)\n* ad10a1df7104639bdb95fca93f1750ad301e563e fix(s3): tune Tigris multipart upload defaults (#1482)\n\n",
   "reactions": {
     "url": "https://api.github.com/repos/benbjohnson/litestream/releases/380078250/reactions",
-    "total_count": 1,
-    "+1": 1,
+    "total_count": 2,
+    "+1": 2,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
