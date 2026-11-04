@@ -14,11 +14,11 @@ x install litestream
 
 ## Code insight
 
-Total: **73,196** lines of code across **195** files in the top 5 languages.
+Total: **73,421** lines of code across **195** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 64,890 | 5,524 | 11,059 | 155 |
+| Go | 65,115 | 5,524 | 11,065 | 155 |
 | Sh | 4,182 | 385 | 857 | 25 |
 | CHeader | 2,465 | 11,720 | 366 | 3 |
 | Json | 960 | 0 | 2 | 7 |
@@ -42,66 +42,66 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.5.17` (2026-08-31)
-- **Last commit**: 2026-11-02
+- **Latest**: `v0.5.18` (2026-11-03)
+- **Last commit**: 2026-11-03
 - **Assets in release**: 33
 
 ## Popularity
 
-- **Stars**: 14,567 · **Forks**: 455 · **Open issues**: 676 · **Contributors**: 49
+- **Stars**: 14,571 · **Forks**: 454 · **Open issues**: 676 · **Contributors**: 49
 
 ## Totals (cumulative)
 
-- **Releases**: 43 · **Merged PRs**: 620 · **Open PRs**: 58 · **Closed issues**: 587 · **Open issues**: 89 · **Commits**: 771
+- **Releases**: 44 · **Merged PRs**: 621 · **Open PRs**: 57 · **Closed issues**: 589 · **Open issues**: 87 · **Commits**: 772
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 30 | 18 | 7 | 10 | 34 |
-| last60d | 2026-09-04 | 0 | 41 | 23 | 15 | 25 | 57 |
-| 90d | 2026-08-05 | 2 | 73 | 33 | 32 | 46 | 77 |
-| last180d | 2026-05-07 | 6 | 122 | 53 | 77 | 80 | 150 |
-| 360d | 2025-11-08 | 17 | 338 | 58 | 230 | 89 | 335 |
-| last720d | 2024-11-13 | 21 | 428 | 58 | 314 | 89 | 430 |
+| 30d | 2026-10-05 | 1 | 31 | 17 | 7 | 10 | 35 |
+| last60d | 2026-09-05 | 1 | 42 | 22 | 15 | 22 | 58 |
+| 90d | 2026-08-06 | 2 | 73 | 32 | 32 | 46 | 78 |
+| last180d | 2026-05-08 | 7 | 123 | 52 | 78 | 78 | 151 |
+| 360d | 2025-11-09 | 18 | 339 | 57 | 232 | 87 | 336 |
+| last720d | 2024-11-14 | 22 | 429 | 57 | 316 | 87 | 431 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/benbjohnson/litestream/releases/download/v0.5.17/checksums.txt) | 2.5 KiB | `other` |
-| [litestream-0.5.17-darwin-arm64.tar.gz](https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-0.5.17-darwin-arm64.tar.gz) | 12.4 MiB | `native/darwin/arm64` |
-| [litestream-0.5.17-darwin-arm64.tar.gz.sbom.json](https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-0.5.17-darwin-arm64.tar.gz.sbom.json) | 161.6 KiB | `native/darwin/arm64` |
-| [litestream-0.5.17-darwin-x86_64.tar.gz](https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-0.5.17-darwin-x86_64.tar.gz) | 13.2 MiB | `native/darwin/x64` |
-| [litestream-0.5.17-darwin-x86_64.tar.gz.sbom.json](https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-0.5.17-darwin-x86_64.tar.gz.sbom.json) | 161.7 KiB | `native/darwin/x64` |
-| [litestream-0.5.17-linux-arm64.deb](https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-0.5.17-linux-arm64.deb) | 11.8 MiB | `native/linux/arm64` |
-| [litestream-0.5.17-linux-arm64.rpm](https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-0.5.17-linux-arm64.rpm) | 11.8 MiB | `native/linux/arm64` |
-| [litestream-0.5.17-linux-arm64.tar.gz](https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-0.5.17-linux-arm64.tar.gz) | 11.8 MiB | `native/linux/arm64` |
-| [litestream-0.5.17-linux-arm64.tar.gz.sbom.json](https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-0.5.17-linux-arm64.tar.gz.sbom.json) | 159.9 KiB | `native/linux/arm64` |
-| [litestream-0.5.17-linux-armv6.deb](https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-0.5.17-linux-armv6.deb) | 12.0 MiB | `native/linux/arm` |
-| [litestream-0.5.17-linux-armv6.rpm](https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-0.5.17-linux-armv6.rpm) | 12.0 MiB | `native/linux/arm` |
-| [litestream-0.5.17-linux-armv6.tar.gz](https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-0.5.17-linux-armv6.tar.gz) | 12.0 MiB | `native/linux/arm` |
-| [litestream-0.5.17-linux-armv6.tar.gz.sbom.json](https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-0.5.17-linux-armv6.tar.gz.sbom.json) | 159.9 KiB | `native/linux/arm` |
-| [litestream-0.5.17-linux-armv7.deb](https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-0.5.17-linux-armv7.deb) | 12.0 MiB | `native/linux/arm` |
-| [litestream-0.5.17-linux-armv7.rpm](https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-0.5.17-linux-armv7.rpm) | 12.0 MiB | `native/linux/arm` |
-| [litestream-0.5.17-linux-armv7.tar.gz](https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-0.5.17-linux-armv7.tar.gz) | 12.0 MiB | `native/linux/arm` |
-| [litestream-0.5.17-linux-armv7.tar.gz.sbom.json](https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-0.5.17-linux-armv7.tar.gz.sbom.json) | 159.9 KiB | `native/linux/arm` |
-| [litestream-0.5.17-linux-x86_64.deb](https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-0.5.17-linux-x86_64.deb) | 12.9 MiB | `native/linux/x64` |
-| [litestream-0.5.17-linux-x86_64.rpm](https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-0.5.17-linux-x86_64.rpm) | 12.9 MiB | `native/linux/x64` |
-| [litestream-0.5.17-linux-x86_64.tar.gz](https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-0.5.17-linux-x86_64.tar.gz) | 12.9 MiB | `native/linux/x64` |
-| [litestream-0.5.17-linux-x86_64.tar.gz.sbom.json](https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-0.5.17-linux-x86_64.tar.gz.sbom.json) | 160.0 KiB | `native/linux/x64` |
-| [litestream-0.5.17-windows-arm64.zip](https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-0.5.17-windows-arm64.zip) | 11.9 MiB | `native/win/arm64` |
-| [litestream-0.5.17-windows-arm64.zip.sbom.json](https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-0.5.17-windows-arm64.zip.sbom.json) | 161.3 KiB | `native/win/arm64` |
-| [litestream-0.5.17-windows-x86_64.zip](https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-0.5.17-windows-x86_64.zip) | 13.2 MiB | `native/win/x64` |
-| [litestream-0.5.17-windows-x86_64.zip.sbom.json](https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-0.5.17-windows-x86_64.zip.sbom.json) | 161.4 KiB | `native/win/x64` |
-| [litestream-vfs-v0.5.17-darwin-amd64.tar.gz](https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-vfs-v0.5.17-darwin-amd64.tar.gz) | 14.5 MiB | `native/darwin/x64` |
-| [litestream-vfs-v0.5.17-darwin-amd64.tar.gz.sha256](https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-vfs-v0.5.17-darwin-amd64.tar.gz.sha256) | 109 B | `native/darwin/x64` |
-| [litestream-vfs-v0.5.17-darwin-arm64.tar.gz](https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-vfs-v0.5.17-darwin-arm64.tar.gz) | 13.5 MiB | `native/darwin/arm64` |
-| [litestream-vfs-v0.5.17-darwin-arm64.tar.gz.sha256](https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-vfs-v0.5.17-darwin-arm64.tar.gz.sha256) | 109 B | `native/darwin/arm64` |
-| [litestream-vfs-v0.5.17-linux-amd64.tar.gz](https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-vfs-v0.5.17-linux-amd64.tar.gz) | 24.7 MiB | `native/linux/x64` |
-| [litestream-vfs-v0.5.17-linux-amd64.tar.gz.sha256](https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-vfs-v0.5.17-linux-amd64.tar.gz.sha256) | 108 B | `native/linux/x64` |
-| [litestream-vfs-v0.5.17-linux-arm64.tar.gz](https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-vfs-v0.5.17-linux-arm64.tar.gz) | 22.6 MiB | `native/linux/arm64` |
-| [litestream-vfs-v0.5.17-linux-arm64.tar.gz.sha256](https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-vfs-v0.5.17-linux-arm64.tar.gz.sha256) | 108 B | `native/linux/arm64` |
+| [checksums.txt](https://github.com/benbjohnson/litestream/releases/download/v0.5.18/checksums.txt) | 2.5 KiB | `other` |
+| [litestream-0.5.18-darwin-arm64.tar.gz](https://github.com/benbjohnson/litestream/releases/download/v0.5.18/litestream-0.5.18-darwin-arm64.tar.gz) | 16.0 MiB | `native/darwin/arm64` |
+| [litestream-0.5.18-darwin-arm64.tar.gz.sbom.json](https://github.com/benbjohnson/litestream/releases/download/v0.5.18/litestream-0.5.18-darwin-arm64.tar.gz.sbom.json) | 182.6 KiB | `native/darwin/arm64` |
+| [litestream-0.5.18-darwin-x86_64.tar.gz](https://github.com/benbjohnson/litestream/releases/download/v0.5.18/litestream-0.5.18-darwin-x86_64.tar.gz) | 17.2 MiB | `native/darwin/x64` |
+| [litestream-0.5.18-darwin-x86_64.tar.gz.sbom.json](https://github.com/benbjohnson/litestream/releases/download/v0.5.18/litestream-0.5.18-darwin-x86_64.tar.gz.sbom.json) | 182.7 KiB | `native/darwin/x64` |
+| [litestream-0.5.18-linux-arm64.deb](https://github.com/benbjohnson/litestream/releases/download/v0.5.18/litestream-0.5.18-linux-arm64.deb) | 15.2 MiB | `native/linux/arm64` |
+| [litestream-0.5.18-linux-arm64.rpm](https://github.com/benbjohnson/litestream/releases/download/v0.5.18/litestream-0.5.18-linux-arm64.rpm) | 15.6 MiB | `native/linux/arm64` |
+| [litestream-0.5.18-linux-arm64.tar.gz](https://github.com/benbjohnson/litestream/releases/download/v0.5.18/litestream-0.5.18-linux-arm64.tar.gz) | 15.2 MiB | `native/linux/arm64` |
+| [litestream-0.5.18-linux-arm64.tar.gz.sbom.json](https://github.com/benbjohnson/litestream/releases/download/v0.5.18/litestream-0.5.18-linux-arm64.tar.gz.sbom.json) | 180.9 KiB | `native/linux/arm64` |
+| [litestream-0.5.18-linux-armv6.deb](https://github.com/benbjohnson/litestream/releases/download/v0.5.18/litestream-0.5.18-linux-armv6.deb) | 15.6 MiB | `native/linux/arm` |
+| [litestream-0.5.18-linux-armv6.rpm](https://github.com/benbjohnson/litestream/releases/download/v0.5.18/litestream-0.5.18-linux-armv6.rpm) | 16.0 MiB | `native/linux/arm` |
+| [litestream-0.5.18-linux-armv6.tar.gz](https://github.com/benbjohnson/litestream/releases/download/v0.5.18/litestream-0.5.18-linux-armv6.tar.gz) | 15.6 MiB | `native/linux/arm` |
+| [litestream-0.5.18-linux-armv6.tar.gz.sbom.json](https://github.com/benbjohnson/litestream/releases/download/v0.5.18/litestream-0.5.18-linux-armv6.tar.gz.sbom.json) | 180.9 KiB | `native/linux/arm` |
+| [litestream-0.5.18-linux-armv7.deb](https://github.com/benbjohnson/litestream/releases/download/v0.5.18/litestream-0.5.18-linux-armv7.deb) | 15.6 MiB | `native/linux/arm` |
+| [litestream-0.5.18-linux-armv7.rpm](https://github.com/benbjohnson/litestream/releases/download/v0.5.18/litestream-0.5.18-linux-armv7.rpm) | 16.0 MiB | `native/linux/arm` |
+| [litestream-0.5.18-linux-armv7.tar.gz](https://github.com/benbjohnson/litestream/releases/download/v0.5.18/litestream-0.5.18-linux-armv7.tar.gz) | 15.6 MiB | `native/linux/arm` |
+| [litestream-0.5.18-linux-armv7.tar.gz.sbom.json](https://github.com/benbjohnson/litestream/releases/download/v0.5.18/litestream-0.5.18-linux-armv7.tar.gz.sbom.json) | 180.9 KiB | `native/linux/arm` |
+| [litestream-0.5.18-linux-x86_64.deb](https://github.com/benbjohnson/litestream/releases/download/v0.5.18/litestream-0.5.18-linux-x86_64.deb) | 16.7 MiB | `native/linux/x64` |
+| [litestream-0.5.18-linux-x86_64.rpm](https://github.com/benbjohnson/litestream/releases/download/v0.5.18/litestream-0.5.18-linux-x86_64.rpm) | 17.2 MiB | `native/linux/x64` |
+| [litestream-0.5.18-linux-x86_64.tar.gz](https://github.com/benbjohnson/litestream/releases/download/v0.5.18/litestream-0.5.18-linux-x86_64.tar.gz) | 16.7 MiB | `native/linux/x64` |
+| [litestream-0.5.18-linux-x86_64.tar.gz.sbom.json](https://github.com/benbjohnson/litestream/releases/download/v0.5.18/litestream-0.5.18-linux-x86_64.tar.gz.sbom.json) | 181.0 KiB | `native/linux/x64` |
+| [litestream-0.5.18-windows-arm64.zip](https://github.com/benbjohnson/litestream/releases/download/v0.5.18/litestream-0.5.18-windows-arm64.zip) | 15.3 MiB | `native/win/arm64` |
+| [litestream-0.5.18-windows-arm64.zip.sbom.json](https://github.com/benbjohnson/litestream/releases/download/v0.5.18/litestream-0.5.18-windows-arm64.zip.sbom.json) | 182.3 KiB | `native/win/arm64` |
+| [litestream-0.5.18-windows-x86_64.zip](https://github.com/benbjohnson/litestream/releases/download/v0.5.18/litestream-0.5.18-windows-x86_64.zip) | 17.1 MiB | `native/win/x64` |
+| [litestream-0.5.18-windows-x86_64.zip.sbom.json](https://github.com/benbjohnson/litestream/releases/download/v0.5.18/litestream-0.5.18-windows-x86_64.zip.sbom.json) | 182.4 KiB | `native/win/x64` |
+| [litestream-vfs-v0.5.18-darwin-amd64.tar.gz](https://github.com/benbjohnson/litestream/releases/download/v0.5.18/litestream-vfs-v0.5.18-darwin-amd64.tar.gz) | 18.8 MiB | `native/darwin/x64` |
+| [litestream-vfs-v0.5.18-darwin-amd64.tar.gz.sha256](https://github.com/benbjohnson/litestream/releases/download/v0.5.18/litestream-vfs-v0.5.18-darwin-amd64.tar.gz.sha256) | 109 B | `native/darwin/x64` |
+| [litestream-vfs-v0.5.18-darwin-arm64.tar.gz](https://github.com/benbjohnson/litestream/releases/download/v0.5.18/litestream-vfs-v0.5.18-darwin-arm64.tar.gz) | 17.5 MiB | `native/darwin/arm64` |
+| [litestream-vfs-v0.5.18-darwin-arm64.tar.gz.sha256](https://github.com/benbjohnson/litestream/releases/download/v0.5.18/litestream-vfs-v0.5.18-darwin-arm64.tar.gz.sha256) | 109 B | `native/darwin/arm64` |
+| [litestream-vfs-v0.5.18-linux-amd64.tar.gz](https://github.com/benbjohnson/litestream/releases/download/v0.5.18/litestream-vfs-v0.5.18-linux-amd64.tar.gz) | 32.1 MiB | `native/linux/x64` |
+| [litestream-vfs-v0.5.18-linux-amd64.tar.gz.sha256](https://github.com/benbjohnson/litestream/releases/download/v0.5.18/litestream-vfs-v0.5.18-linux-amd64.tar.gz.sha256) | 108 B | `native/linux/x64` |
+| [litestream-vfs-v0.5.18-linux-arm64.tar.gz](https://github.com/benbjohnson/litestream/releases/download/v0.5.18/litestream-vfs-v0.5.18-linux-arm64.tar.gz) | 29.5 MiB | `native/linux/arm64` |
+| [litestream-vfs-v0.5.18-linux-arm64.tar.gz.sha256](https://github.com/benbjohnson/litestream/releases/download/v0.5.18/litestream-vfs-v0.5.18-linux-arm64.tar.gz.sha256) | 108 B | `native/linux/arm64` |
 
 ## Distribution status
 
@@ -120,4 +120,4 @@ Install metadata for litestream lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T07:42:36Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T07:11:02Z._
