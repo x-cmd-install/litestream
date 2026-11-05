@@ -26,12 +26,12 @@ Total: **73,421** lines of code across **195** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.9 / 10**
+Overall score: **5.6 / 10**
 
 Lowest-scoring checks:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Pinned-Dependencies** (2/10) — dependency not pinned by hash detected -- score normalized to 2
 
 ## Source
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 14,571 · **Forks**: 454 · **Open issues**: 676 · **Contributors**: 49
+- **Stars**: 14,577 · **Forks**: 455 · **Open issues**: 676 · **Contributors**: 49
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 1 | 31 | 17 | 7 | 10 | 35 |
-| last60d | 2026-09-05 | 1 | 42 | 22 | 15 | 22 | 58 |
-| 90d | 2026-08-06 | 2 | 73 | 32 | 32 | 46 | 78 |
-| last180d | 2026-05-08 | 7 | 123 | 52 | 78 | 78 | 151 |
-| 360d | 2025-11-09 | 18 | 339 | 57 | 232 | 87 | 336 |
-| last720d | 2024-11-14 | 22 | 429 | 57 | 316 | 87 | 431 |
+| 30d | 2026-10-06 | 1 | 28 | 17 | 6 | 9 | 35 |
+| last60d | 2026-09-06 | 1 | 42 | 22 | 15 | 22 | 58 |
+| 90d | 2026-08-07 | 2 | 73 | 32 | 32 | 46 | 78 |
+| last180d | 2026-05-09 | 7 | 123 | 52 | 78 | 78 | 151 |
+| 360d | 2025-11-10 | 18 | 338 | 57 | 232 | 87 | 336 |
+| last720d | 2024-11-15 | 22 | 429 | 57 | 316 | 87 | 431 |
 
 ## Release assets
 
@@ -105,11 +105,11 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **14** distros on [repology.org](https://repology.org/project/litestream). **4** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+Reported by **14** distros on [repology.org](https://repology.org/project/litestream). **1** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Nix unstable | `0.5.17` | ✅ latest |
+| Nix unstable | `0.5.18` | ✅ latest |
 
 ## Improve this data
 
@@ -120,4 +120,4 @@ Install metadata for litestream lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:11:02Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:27:36Z._

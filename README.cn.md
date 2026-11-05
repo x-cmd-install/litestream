@@ -26,12 +26,12 @@ x install litestream
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.9 / 10**
+总评分: **5.6 / 10**
 
 评分最低的几项:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Pinned-Dependencies** (2/10) — dependency not pinned by hash detected -- score normalized to 2
 
 ## 源代码
@@ -48,7 +48,7 @@ x install litestream
 
 ## 流行度
 
-- **Star**: 14,571 · **Fork**: 454 · **开放 issue**: 676 · **贡献者**: 49
+- **Star**: 14,577 · **Fork**: 455 · **开放 issue**: 676 · **贡献者**: 49
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install litestream
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 1 | 31 | 17 | 7 | 10 | 35 |
-| last60d | 2026-09-05 | 1 | 42 | 22 | 15 | 22 | 58 |
-| 90d | 2026-08-06 | 2 | 73 | 32 | 32 | 46 | 78 |
-| last180d | 2026-05-08 | 7 | 123 | 52 | 78 | 78 | 151 |
-| 360d | 2025-11-09 | 18 | 339 | 57 | 232 | 87 | 336 |
-| last720d | 2024-11-14 | 22 | 429 | 57 | 316 | 87 | 431 |
+| 30d | 2026-10-06 | 1 | 28 | 17 | 6 | 9 | 35 |
+| last60d | 2026-09-06 | 1 | 42 | 22 | 15 | 22 | 58 |
+| 90d | 2026-08-07 | 2 | 73 | 32 | 32 | 46 | 78 |
+| last180d | 2026-05-09 | 7 | 123 | 52 | 78 | 78 | 151 |
+| 360d | 2025-11-10 | 18 | 338 | 57 | 232 | 87 | 336 |
+| last720d | 2024-11-15 | 22 | 429 | 57 | 316 | 87 | 431 |
 
 ## Release 资产
 
@@ -105,11 +105,11 @@ x install litestream
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/litestream) 上共有 **14** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**7** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/litestream) 上共有 **14** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**10** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Nix unstable | `0.5.17` | ✅ latest |
+| Nix unstable | `0.5.18` | ✅ latest |
 
 ## 改进这些数据
 
@@ -120,4 +120,4 @@ litestream 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261104.yml` · 2026-11-04T07:11:02Z._
+_数据快照: `data/card/261105.yml` · 2026-11-05T07:27:37Z._
