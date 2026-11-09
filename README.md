@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 14,587 · **Forks**: 456 · **Open issues**: 677 · **Contributors**: 50
+- **Stars**: 14,592 · **Forks**: 456 · **Open issues**: 677 · **Contributors**: 50
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 1 | 27 | 12 | 5 | 10 | 34 |
-| last60d | 2026-09-09 | 1 | 43 | 21 | 15 | 23 | 51 |
-| 90d | 2026-08-10 | 2 | 74 | 32 | 29 | 47 | 77 |
-| last180d | 2026-05-12 | 7 | 124 | 51 | 76 | 79 | 149 |
-| 360d | 2025-11-13 | 18 | 336 | 57 | 230 | 88 | 332 |
-| last720d | 2024-11-18 | 22 | 430 | 57 | 316 | 88 | 432 |
+| 30d | 2026-10-10 | 1 | 24 | 11 | 5 | 10 | 34 |
+| last60d | 2026-09-10 | 1 | 42 | 20 | 15 | 22 | 51 |
+| 90d | 2026-08-11 | 2 | 74 | 32 | 29 | 46 | 77 |
+| last180d | 2026-05-13 | 7 | 124 | 51 | 76 | 79 | 149 |
+| 360d | 2025-11-14 | 18 | 335 | 57 | 230 | 88 | 332 |
+| last720d | 2024-11-19 | 22 | 430 | 57 | 315 | 88 | 432 |
 
 ## Release assets
 
@@ -120,4 +120,4 @@ Install metadata for litestream lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:43:13Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T07:32:28Z._
