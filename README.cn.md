@@ -14,11 +14,11 @@ x install litestream
 
 ## 代码洞察
 
-合计: **73,454** 行代码（覆盖前 5 种语言、共 **195** 个文件）。
+合计: **73,834** 行代码（覆盖前 5 种语言、共 **195** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 65,148 | 5,524 | 11,066 | 155 |
+| Go | 65,528 | 5,554 | 11,096 | 155 |
 | Sh | 4,182 | 385 | 857 | 25 |
 | CHeader | 2,465 | 11,720 | 366 | 3 |
 | Json | 960 | 0 | 2 | 7 |
@@ -30,8 +30,8 @@ x install litestream
 
 评分最低的几项:
 
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Pinned-Dependencies** (2/10) — dependency not pinned by hash detected -- score normalized to 2
 
 ## 源代码
@@ -43,27 +43,27 @@ x install litestream
 ## 发布
 
 - **最新版本**: `v0.5.18` (2026-11-03)
-- **最近提交**: 2026-11-06
+- **最近提交**: 2026-11-09
 - **Release 含资产**: 33 个
 
 ## 流行度
 
-- **Star**: 14,592 · **Fork**: 456 · **开放 issue**: 677 · **贡献者**: 50
+- **Star**: 14,595 · **Fork**: 456 · **开放 issue**: 677 · **贡献者**: 54
 
 ## 累计统计
 
-- **发布数**: 44 · **已合并 PR**: 622 · **开放 PR**: 57 · **已关闭 issue**: 589 · **开放 issue**: 88 · **提交数**: 773
+- **发布数**: 44 · **已合并 PR**: 627 · **开放 PR**: 52 · **已关闭 issue**: 592 · **开放 issue**: 85 · **提交数**: 778
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 1 | 24 | 11 | 5 | 10 | 34 |
-| last60d | 2026-09-10 | 1 | 42 | 20 | 15 | 22 | 51 |
-| 90d | 2026-08-11 | 2 | 74 | 32 | 29 | 46 | 77 |
-| last180d | 2026-05-13 | 7 | 124 | 51 | 76 | 79 | 149 |
-| 360d | 2025-11-14 | 18 | 335 | 57 | 230 | 88 | 332 |
-| last720d | 2024-11-19 | 22 | 430 | 57 | 315 | 88 | 432 |
+| 30d | 2026-10-11 | 1 | 23 | 11 | 4 | 9 | 39 |
+| last60d | 2026-09-11 | 1 | 41 | 19 | 14 | 22 | 56 |
+| 90d | 2026-08-12 | 2 | 74 | 30 | 29 | 45 | 82 |
+| last180d | 2026-05-14 | 7 | 128 | 46 | 79 | 76 | 154 |
+| 360d | 2025-11-15 | 18 | 339 | 52 | 233 | 85 | 337 |
+| last720d | 2024-11-20 | 22 | 434 | 52 | 318 | 85 | 437 |
 
 ## Release 资产
 
@@ -120,4 +120,4 @@ litestream 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261109.yml` · 2026-11-09T07:32:29Z._
+_数据快照: `data/card/261110.yml` · 2026-11-10T08:06:58Z._
