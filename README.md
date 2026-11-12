@@ -14,11 +14,11 @@ x install litestream
 
 ## Code insight
 
-Total: **74,056** lines of code across **195** files in the top 5 languages.
+Total: **75,098** lines of code across **195** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 65,750 | 5,564 | 11,117 | 155 |
+| Go | 66,792 | 5,568 | 11,156 | 155 |
 | Sh | 4,182 | 385 | 857 | 25 |
 | CHeader | 2,465 | 11,720 | 366 | 3 |
 | Json | 960 | 0 | 2 | 7 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.5.18` (2026-11-03)
-- **Last commit**: 2026-11-10
+- **Last commit**: 2026-11-11
 - **Assets in release**: 33
 
 ## Popularity
 
-- **Stars**: 14,612 · **Forks**: 457 · **Open issues**: 678 · **Contributors**: 54
+- **Stars**: 14,624 · **Forks**: 457 · **Open issues**: 680 · **Contributors**: 55
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 628 · **Open PRs**: 52 · **Closed issues**: 592 · **Open issues**: 86 · **Commits**: 779
+- **Releases**: 44 · **Merged PRs**: 634 · **Open PRs**: 49 · **Closed issues**: 596 · **Open issues**: 84 · **Commits**: 785
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 1 | 23 | 11 | 4 | 10 | 40 |
-| last60d | 2026-09-12 | 1 | 42 | 19 | 14 | 22 | 57 |
-| 90d | 2026-08-13 | 2 | 75 | 30 | 29 | 46 | 83 |
-| last180d | 2026-05-15 | 7 | 127 | 46 | 71 | 75 | 155 |
-| 360d | 2025-11-16 | 18 | 340 | 52 | 233 | 86 | 338 |
-| last720d | 2024-11-21 | 22 | 435 | 52 | 318 | 86 | 438 |
+| 30d | 2026-10-13 | 1 | 29 | 8 | 7 | 9 | 46 |
+| last60d | 2026-09-13 | 1 | 48 | 16 | 17 | 21 | 63 |
+| 90d | 2026-08-14 | 2 | 79 | 27 | 31 | 45 | 89 |
+| last180d | 2026-05-16 | 7 | 132 | 43 | 75 | 73 | 161 |
+| 360d | 2025-11-17 | 18 | 346 | 49 | 236 | 84 | 344 |
+| last720d | 2024-11-22 | 22 | 441 | 49 | 322 | 84 | 444 |
 
 ## Release assets
 
@@ -105,7 +105,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **14** distros on [repology.org](https://repology.org/project/litestream). **1** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
+Reported by **14** distros on [repology.org](https://repology.org/project/litestream). **2** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -120,4 +120,4 @@ Install metadata for litestream lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T07:14:42Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T08:18:11Z._
