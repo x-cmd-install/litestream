@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 14,619 · **Forks**: 459 · **Open issues**: 682 · **Contributors**: 55
+- **Stars**: 14,621 · **Forks**: 460 · **Open issues**: 684 · **Contributors**: 55
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 637 · **Open PRs**: 45 · **Closed issues**: 600 · **Open issues**: 82 · **Commits**: 788
+- **Releases**: 44 · **Merged PRs**: 637 · **Open PRs**: 46 · **Closed issues**: 610 · **Open issues**: 74 · **Commits**: 788
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 1 | 25 | 10 | 8 | 10 | 49 |
-| last60d | 2026-09-15 | 1 | 46 | 19 | 16 | 20 | 66 |
-| 90d | 2026-08-16 | 2 | 76 | 26 | 34 | 43 | 92 |
-| last180d | 2026-05-18 | 7 | 132 | 39 | 78 | 72 | 164 |
-| 360d | 2025-11-19 | 18 | 347 | 45 | 237 | 82 | 347 |
-| last720d | 2024-11-24 | 22 | 444 | 45 | 326 | 82 | 447 |
+| 30d | 2026-10-16 | 1 | 25 | 11 | 8 | 12 | 49 |
+| last60d | 2026-09-16 | 1 | 46 | 20 | 16 | 22 | 66 |
+| 90d | 2026-08-17 | 2 | 75 | 27 | 33 | 44 | 92 |
+| last180d | 2026-05-19 | 7 | 131 | 40 | 88 | 64 | 164 |
+| 360d | 2025-11-20 | 18 | 346 | 46 | 241 | 74 | 347 |
+| last720d | 2024-11-25 | 22 | 444 | 46 | 336 | 74 | 447 |
 
 ## Release assets
 
@@ -105,7 +105,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **14** distros on [repology.org](https://repology.org/project/litestream). **2** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
+Reported by **14** distros on [repology.org](https://repology.org/project/litestream). **3** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -120,4 +120,4 @@ Install metadata for litestream lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T07:33:01Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T07:22:55Z._
