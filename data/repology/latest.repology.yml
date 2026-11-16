@@ -1,34 +1,3 @@
-- repo: aur
-  srcname: litestream
-  binname: litestream
-  visiblename: litestream
-  version: 0.5.12
-  origversion: 0.5.12-1
-  status: outdated
-  summary: Streaming S3 replication for SQLite.
-  maintainers:
-    - wansing@aur
-  licenses:
-    - Apache
-- repo: chocolatey
-  binname: litestream
-  visiblename: Litestream
-  version: 0.5.17
-  origversion: null
-  status: outdated
-  summary: Streaming replication for SQLite
-- repo: freebsd
-  srcname: databases/litestream
-  binname: litestream
-  visiblename: databases/litestream
-  version: 0.5.18
-  origversion: null
-  status: newest
-  summary: Streaming replication for SQLite
-  maintainers:
-    - sunpoet@freebsd.org
-  categories:
-    - databases
 - repo: gentoo
   srcname: media-sound/litestream
   visiblename: media-sound/litestream
@@ -105,6 +74,37 @@
     - konrad.malik@gmail.com
   licenses:
     - Apache-2.0
+- repo: aur
+  srcname: litestream
+  binname: litestream
+  visiblename: litestream
+  version: 0.5.12
+  origversion: 0.5.12-1
+  status: outdated
+  summary: Streaming S3 replication for SQLite.
+  maintainers:
+    - wansing@aur
+  licenses:
+    - Apache
+- repo: chocolatey
+  binname: litestream
+  visiblename: Litestream
+  version: 0.5.18
+  origversion: null
+  status: newest
+  summary: Streaming replication for SQLite
+- repo: freebsd
+  srcname: databases/litestream
+  binname: litestream
+  visiblename: databases/litestream
+  version: 0.5.18
+  origversion: null
+  status: newest
+  summary: Streaming replication for SQLite
+  maintainers:
+    - sunpoet@freebsd.org
+  categories:
+    - databases
 - repo: nix_stable_24_05
   srcname: litestream
   visiblename: litestream
