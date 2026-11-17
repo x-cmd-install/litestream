@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 14,624 · **Forks**: 460 · **Open issues**: 684 · **Contributors**: 55
+- **Stars**: 14,628 · **Forks**: 461 · **Open issues**: 684 · **Contributors**: 55
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 637 · **Open PRs**: 46 · **Closed issues**: 610 · **Open issues**: 74 · **Commits**: 788
+- **Releases**: 44 · **Merged PRs**: 637 · **Open PRs**: 49 · **Closed issues**: 610 · **Open issues**: 74 · **Commits**: 788
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 1 | 24 | 11 | 7 | 12 | 39 |
-| last60d | 2026-09-17 | 1 | 45 | 20 | 16 | 22 | 65 |
-| 90d | 2026-08-18 | 2 | 72 | 27 | 33 | 41 | 87 |
-| last180d | 2026-05-20 | 7 | 128 | 40 | 88 | 64 | 164 |
-| 360d | 2025-11-21 | 18 | 345 | 46 | 241 | 74 | 343 |
-| last720d | 2024-11-26 | 22 | 444 | 46 | 336 | 74 | 447 |
+| 30d | 2026-10-18 | 1 | 24 | 14 | 7 | 12 | 39 |
+| last60d | 2026-09-18 | 1 | 45 | 23 | 16 | 21 | 65 |
+| 90d | 2026-08-19 | 2 | 70 | 30 | 31 | 41 | 87 |
+| last180d | 2026-05-21 | 7 | 128 | 43 | 88 | 64 | 164 |
+| 360d | 2025-11-22 | 18 | 345 | 49 | 241 | 74 | 343 |
+| last720d | 2024-11-27 | 22 | 444 | 49 | 336 | 74 | 447 |
 
 ## Release assets
 
@@ -103,14 +103,6 @@ Lowest-scoring checks:
 | [litestream-vfs-v0.5.18-linux-arm64.tar.gz](https://github.com/benbjohnson/litestream/releases/download/v0.5.18/litestream-vfs-v0.5.18-linux-arm64.tar.gz) | 29.5 MiB | `native/linux/arm64` |
 | [litestream-vfs-v0.5.18-linux-arm64.tar.gz.sha256](https://github.com/benbjohnson/litestream/releases/download/v0.5.18/litestream-vfs-v0.5.18-linux-arm64.tar.gz.sha256) | 108 B | `native/linux/arm64` |
 
-## Distribution status
-
-Reported by **14** distros on [repology.org](https://repology.org/project/litestream). **4** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `0.5.18` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for litestream lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `litestream` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -120,4 +112,4 @@ Install metadata for litestream lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:10:02Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T10:29:07Z._
