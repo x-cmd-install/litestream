@@ -14,11 +14,11 @@ x install litestream
 
 ## Code insight
 
-Total: **75,791** lines of code across **195** files in the top 5 languages.
+Total: **76,172** lines of code across **195** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 67,485 | 5,591 | 11,211 | 155 |
+| Go | 67,866 | 5,603 | 11,238 | 155 |
 | Sh | 4,182 | 385 | 857 | 25 |
 | CHeader | 2,465 | 11,720 | 366 | 3 |
 | Json | 960 | 0 | 2 | 7 |
@@ -30,8 +30,8 @@ Overall score: **5.6 / 10**
 
 Lowest-scoring checks:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Pinned-Dependencies** (2/10) — dependency not pinned by hash detected -- score normalized to 2
 
 ## Source
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.5.18` (2026-11-03)
-- **Last commit**: 2026-11-12
+- **Last commit**: 2026-11-19
 - **Assets in release**: 33
 
 ## Popularity
 
-- **Stars**: 14,628 · **Forks**: 461 · **Open issues**: 684 · **Contributors**: 55
+- **Stars**: 14,635 · **Forks**: 461 · **Open issues**: 684 · **Contributors**: 56
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 637 · **Open PRs**: 49 · **Closed issues**: 610 · **Open issues**: 74 · **Commits**: 788
+- **Releases**: 44 · **Merged PRs**: 639 · **Open PRs**: 48 · **Closed issues**: 612 · **Open issues**: 72 · **Commits**: 790
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 1 | 24 | 14 | 7 | 12 | 39 |
-| last60d | 2026-09-18 | 1 | 45 | 23 | 16 | 21 | 65 |
-| 90d | 2026-08-19 | 2 | 70 | 30 | 31 | 41 | 87 |
-| last180d | 2026-05-21 | 7 | 128 | 43 | 88 | 64 | 164 |
-| 360d | 2025-11-22 | 18 | 345 | 49 | 241 | 74 | 343 |
-| last720d | 2024-11-27 | 22 | 444 | 49 | 336 | 74 | 447 |
+| 30d | 2026-10-20 | 1 | 24 | 13 | 8 | 10 | 41 |
+| last60d | 2026-09-20 | 1 | 46 | 22 | 17 | 20 | 67 |
+| 90d | 2026-08-21 | 2 | 70 | 28 | 30 | 37 | 89 |
+| last180d | 2026-05-23 | 7 | 130 | 42 | 90 | 62 | 166 |
+| 360d | 2025-11-24 | 18 | 345 | 48 | 243 | 72 | 345 |
+| last720d | 2024-11-29 | 22 | 446 | 48 | 338 | 72 | 449 |
 
 ## Release assets
 
@@ -103,6 +103,14 @@ Lowest-scoring checks:
 | [litestream-vfs-v0.5.18-linux-arm64.tar.gz](https://github.com/benbjohnson/litestream/releases/download/v0.5.18/litestream-vfs-v0.5.18-linux-arm64.tar.gz) | 29.5 MiB | `native/linux/arm64` |
 | [litestream-vfs-v0.5.18-linux-arm64.tar.gz.sha256](https://github.com/benbjohnson/litestream/releases/download/v0.5.18/litestream-vfs-v0.5.18-linux-arm64.tar.gz.sha256) | 108 B | `native/linux/arm64` |
 
+## Distribution status
+
+Reported by **14** distros on [repology.org](https://repology.org/project/litestream). **4** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `0.5.18` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for litestream lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `litestream` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -112,4 +120,4 @@ Install metadata for litestream lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T10:29:07Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T08:16:45Z._

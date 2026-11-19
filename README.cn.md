@@ -14,11 +14,11 @@ x install litestream
 
 ## 代码洞察
 
-合计: **75,791** 行代码（覆盖前 5 种语言、共 **195** 个文件）。
+合计: **76,172** 行代码（覆盖前 5 种语言、共 **195** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 67,485 | 5,591 | 11,211 | 155 |
+| Go | 67,866 | 5,603 | 11,238 | 155 |
 | Sh | 4,182 | 385 | 857 | 25 |
 | CHeader | 2,465 | 11,720 | 366 | 3 |
 | Json | 960 | 0 | 2 | 7 |
@@ -30,8 +30,8 @@ x install litestream
 
 评分最低的几项:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Pinned-Dependencies** (2/10) — dependency not pinned by hash detected -- score normalized to 2
 
 ## 源代码
@@ -43,27 +43,27 @@ x install litestream
 ## 发布
 
 - **最新版本**: `v0.5.18` (2026-11-03)
-- **最近提交**: 2026-11-12
+- **最近提交**: 2026-11-19
 - **Release 含资产**: 33 个
 
 ## 流行度
 
-- **Star**: 14,628 · **Fork**: 461 · **开放 issue**: 684 · **贡献者**: 55
+- **Star**: 14,635 · **Fork**: 461 · **开放 issue**: 684 · **贡献者**: 56
 
 ## 累计统计
 
-- **发布数**: 44 · **已合并 PR**: 637 · **开放 PR**: 49 · **已关闭 issue**: 610 · **开放 issue**: 74 · **提交数**: 788
+- **发布数**: 44 · **已合并 PR**: 639 · **开放 PR**: 48 · **已关闭 issue**: 612 · **开放 issue**: 72 · **提交数**: 790
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 1 | 24 | 14 | 7 | 12 | 39 |
-| last60d | 2026-09-18 | 1 | 45 | 23 | 16 | 21 | 65 |
-| 90d | 2026-08-19 | 2 | 70 | 30 | 31 | 41 | 87 |
-| last180d | 2026-05-21 | 7 | 128 | 43 | 88 | 64 | 164 |
-| 360d | 2025-11-22 | 18 | 345 | 49 | 241 | 74 | 343 |
-| last720d | 2024-11-27 | 22 | 444 | 49 | 336 | 74 | 447 |
+| 30d | 2026-10-20 | 1 | 24 | 13 | 8 | 10 | 41 |
+| last60d | 2026-09-20 | 1 | 46 | 22 | 17 | 20 | 67 |
+| 90d | 2026-08-21 | 2 | 70 | 28 | 30 | 37 | 89 |
+| last180d | 2026-05-23 | 7 | 130 | 42 | 90 | 62 | 166 |
+| 360d | 2025-11-24 | 18 | 345 | 48 | 243 | 72 | 345 |
+| last720d | 2024-11-29 | 22 | 446 | 48 | 338 | 72 | 449 |
 
 ## Release 资产
 
@@ -103,6 +103,14 @@ x install litestream
 | [litestream-vfs-v0.5.18-linux-arm64.tar.gz](https://github.com/benbjohnson/litestream/releases/download/v0.5.18/litestream-vfs-v0.5.18-linux-arm64.tar.gz) | 29.5 MiB | `native/linux/arm64` |
 | [litestream-vfs-v0.5.18-linux-arm64.tar.gz.sha256](https://github.com/benbjohnson/litestream/releases/download/v0.5.18/litestream-vfs-v0.5.18-linux-arm64.tar.gz.sha256) | 108 B | `native/linux/arm64` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/litestream) 上共有 **14** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**7** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Nix unstable | `0.5.18` | ✅ latest |
+
 ## 改进这些数据
 
 litestream 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `litestream` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -112,4 +120,4 @@ litestream 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261117.yml` · 2026-11-17T10:29:08Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T08:16:45Z._
