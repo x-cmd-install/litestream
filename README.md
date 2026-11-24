@@ -24,16 +24,6 @@ Total: **76,729** lines of code across **196** files in the top 5 languages.
 | Json | 960 | 0 | 2 | 7 |
 | Python | 183 | 2 | 30 | 5 |
 
-## OpenSSF Scorecard
-
-Overall score: **5.6 / 10**
-
-Lowest-scoring checks:
-
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (2/10) — dependency not pinned by hash detected -- score normalized to 2
-
 ## Source
 
 - **Upstream**: <https://github.com/benbjohnson/litestream>
@@ -48,22 +38,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 14,674 · **Forks**: 465 · **Open issues**: 689 · **Contributors**: 58
+- **Stars**: 14,686 · **Forks**: 466 · **Open issues**: 689 · **Contributors**: 58
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 644 · **Open PRs**: 46 · **Closed issues**: 619 · **Open issues**: 70 · **Commits**: 795
+- **Releases**: 44 · **Merged PRs**: 644 · **Open PRs**: 47 · **Closed issues**: 619 · **Open issues**: 70 · **Commits**: 795
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 1 | 15 | 14 | 9 | 13 | 28 |
-| last60d | 2026-09-24 | 1 | 47 | 22 | 19 | 18 | 72 |
-| 90d | 2026-08-25 | 2 | 72 | 26 | 33 | 36 | 87 |
-| last180d | 2026-05-27 | 7 | 133 | 40 | 97 | 60 | 139 |
-| 360d | 2025-11-28 | 18 | 344 | 46 | 247 | 70 | 347 |
-| last720d | 2024-12-03 | 22 | 451 | 46 | 345 | 70 | 454 |
+| 30d | 2026-10-25 | 1 | 14 | 15 | 9 | 13 | 28 |
+| last60d | 2026-09-25 | 1 | 47 | 23 | 19 | 18 | 72 |
+| 90d | 2026-08-26 | 2 | 69 | 27 | 31 | 35 | 87 |
+| last180d | 2026-05-28 | 7 | 132 | 41 | 96 | 59 | 139 |
+| 360d | 2025-11-29 | 18 | 344 | 47 | 247 | 70 | 347 |
+| last720d | 2024-12-04 | 22 | 451 | 47 | 345 | 70 | 454 |
 
 ## Release assets
 
@@ -105,7 +95,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **14** distros on [repology.org](https://repology.org/project/litestream). **4** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+Reported by **14** distros on [repology.org](https://repology.org/project/litestream). **5** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -120,4 +110,4 @@ Install metadata for litestream lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T10:26:39Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T10:24:41Z._
