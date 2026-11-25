@@ -14,11 +14,11 @@ x install litestream
 
 ## 代码洞察
 
-合计: **76,729** 行代码（覆盖前 5 种语言、共 **196** 个文件）。
+合计: **76,762** 行代码（覆盖前 5 种语言、共 **196** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 68,496 | 5,630 | 11,271 | 157 |
+| Go | 68,529 | 5,630 | 11,275 | 157 |
 | Sh | 4,109 | 374 | 843 | 24 |
 | CHeader | 2,465 | 11,720 | 366 | 3 |
 | Json | 960 | 0 | 2 | 7 |
@@ -33,27 +33,27 @@ x install litestream
 ## 发布
 
 - **最新版本**: `v0.5.18` (2026-11-03)
-- **最近提交**: 2026-11-20
+- **最近提交**: 2026-11-24
 - **Release 含资产**: 33 个
 
 ## 流行度
 
-- **Star**: 14,686 · **Fork**: 466 · **开放 issue**: 689 · **贡献者**: 58
+- **Star**: 14,696 · **Fork**: 465 · **开放 issue**: 691 · **贡献者**: 58
 
 ## 累计统计
 
-- **发布数**: 44 · **已合并 PR**: 644 · **开放 PR**: 47 · **已关闭 issue**: 619 · **开放 issue**: 70 · **提交数**: 795
+- **发布数**: 44 · **已合并 PR**: 646 · **开放 PR**: 47 · **已关闭 issue**: 620 · **开放 issue**: 71 · **提交数**: 797
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 14 | 15 | 9 | 13 | 28 |
-| last60d | 2026-09-25 | 1 | 47 | 23 | 19 | 18 | 72 |
-| 90d | 2026-08-26 | 2 | 69 | 27 | 31 | 35 | 87 |
-| last180d | 2026-05-28 | 7 | 132 | 41 | 96 | 59 | 139 |
-| 360d | 2025-11-29 | 18 | 344 | 47 | 247 | 70 | 347 |
-| last720d | 2024-12-04 | 22 | 451 | 47 | 345 | 70 | 454 |
+| 30d | 2026-10-26 | 1 | 16 | 15 | 10 | 14 | 30 |
+| last60d | 2026-09-26 | 1 | 49 | 23 | 20 | 19 | 74 |
+| 90d | 2026-08-27 | 2 | 71 | 27 | 32 | 36 | 89 |
+| last180d | 2026-05-29 | 7 | 134 | 40 | 97 | 60 | 141 |
+| 360d | 2025-11-30 | 18 | 346 | 47 | 248 | 71 | 349 |
+| last720d | 2024-12-05 | 22 | 453 | 47 | 346 | 71 | 456 |
 
 ## Release 资产
 
@@ -93,14 +93,6 @@ x install litestream
 | [litestream-vfs-v0.5.18-linux-arm64.tar.gz](https://github.com/benbjohnson/litestream/releases/download/v0.5.18/litestream-vfs-v0.5.18-linux-arm64.tar.gz) | 29.5 MiB | `native/linux/arm64` |
 | [litestream-vfs-v0.5.18-linux-arm64.tar.gz.sha256](https://github.com/benbjohnson/litestream/releases/download/v0.5.18/litestream-vfs-v0.5.18-linux-arm64.tar.gz.sha256) | 108 B | `native/linux/arm64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/litestream) 上共有 **14** 个发行版报告此项目。**5** 个 ✅ 已是最新上游版本，**6** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Nix unstable | `0.5.18` | ✅ latest |
-
 ## 改进这些数据
 
 litestream 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `litestream` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -110,4 +102,4 @@ litestream 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T10:24:42Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T10:08:20Z._
