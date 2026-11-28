@@ -14,11 +14,11 @@ x install litestream
 
 ## Code insight
 
-Total: **77,866** lines of code across **198** files in the top 5 languages.
+Total: **79,609** lines of code across **199** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 69,633 | 5,668 | 11,346 | 159 |
+| Go | 71,376 | 5,708 | 11,488 | 160 |
 | Sh | 4,109 | 374 | 843 | 24 |
 | CHeader | 2,465 | 11,720 | 366 | 3 |
 | Json | 960 | 0 | 2 | 7 |
@@ -33,27 +33,27 @@ Total: **77,866** lines of code across **198** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.5.18` (2026-11-03)
-- **Last commit**: 2026-11-26
+- **Last commit**: 2026-11-27
 - **Assets in release**: 33
 
 ## Popularity
 
-- **Stars**: 14,706 · **Forks**: 467 · **Open issues**: 692 · **Contributors**: 62
+- **Stars**: 14,721 · **Forks**: 467 · **Open issues**: 694 · **Contributors**: 65
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 652 · **Open PRs**: 44 · **Closed issues**: 626 · **Open issues**: 66 · **Commits**: 803
+- **Releases**: 44 · **Merged PRs**: 657 · **Open PRs**: 42 · **Closed issues**: 629 · **Open issues**: 65 · **Commits**: 808
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 1 | 20 | 11 | 11 | 12 | 35 |
-| last60d | 2026-09-28 | 1 | 55 | 20 | 20 | 17 | 79 |
-| 90d | 2026-08-29 | 2 | 74 | 23 | 32 | 32 | 94 |
-| last180d | 2026-05-31 | 7 | 140 | 37 | 102 | 56 | 146 |
-| 360d | 2025-12-02 | 18 | 351 | 44 | 253 | 66 | 354 |
-| last720d | 2024-12-07 | 22 | 459 | 44 | 352 | 66 | 462 |
+| 30d | 2026-10-29 | 1 | 24 | 9 | 12 | 10 | 40 |
+| last60d | 2026-09-29 | 1 | 60 | 18 | 23 | 15 | 84 |
+| 90d | 2026-08-30 | 2 | 78 | 21 | 34 | 31 | 99 |
+| last180d | 2026-06-01 | 7 | 145 | 35 | 105 | 55 | 151 |
+| 360d | 2025-12-03 | 18 | 356 | 42 | 256 | 65 | 359 |
+| last720d | 2024-12-08 | 22 | 464 | 42 | 355 | 65 | 467 |
 
 ## Release assets
 
@@ -102,4 +102,4 @@ Install metadata for litestream lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T10:10:16Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:55:49Z._
